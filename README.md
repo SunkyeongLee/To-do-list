@@ -1,4 +1,4 @@
-[Create React App](https://github.com/facebook/create-react-app)을 사용하여 만든 To-do list입니다.
+React를 사용하여 만든 To-do list입니다.
 
 ## To-do list
 
